@@ -3,7 +3,7 @@ Ce repository rentre dans le cadre de la candidature au poste de Data Scientist 
 
 L'objectif général est de comprendre les problèmes de qualité de données. 
 
-Le fichier aphp_code.ipynb contient le code permettant de répondre aux différentes questions posées. Ce dernier est divisé en différents chapitres :
+Le fichier aphp_code.ipynb, dans le dossier code, contient le code permettant de répondre aux différentes questions posées. Ce dernier est divisé en différents chapitres : 
 - **Analyse de forme :** Evalue la forme générale des données ainsi que la création de dictionnaire qui seront utiles pour l'étude.
 - **Données manquantes :** Evalue le taux de données manquantes par variable.
 - **Qualité des données :** Evalue la qualité des données avec l'identification des incohérences dans le dataframe df_patient.
