@@ -1,5 +1,5 @@
 # inria-aphp
-Ce repository rentre dans le cadre de la candidature au poste de Data Scientist en collaboration entre Inria et AH-HP. Les données portent sur des résultats de tests pcr COVID d'Australiens.
+Poste en collaboration entre Inria et AH-HP. Les données portent sur des résultats de tests pcr COVID d'Australiens.
 
 L'objectif général est de comprendre les problèmes de qualité de données. 
 
